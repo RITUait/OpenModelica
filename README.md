@@ -1,2 +1,2 @@
 # OpenModelica
-An open source project under MHRD , India.
+Will tell you sooner !!! 
