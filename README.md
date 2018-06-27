@@ -5,7 +5,9 @@
 
 FOSSEE project is part of the National Mission on Education through ICT with the thrust area being "Adaptation and deployment of open source simulation packages equivalent to proprietary software, funded by MHRD, based at the Indian Institute of Technology Bombay (IITB).
 
-#Spoken Tutorial Project 
+My contributon can be found at https://github.com/manasdas17/OpenModelicaEmbedded
+
+# Spoken Tutorial Project 
 
 The Spoken Tutorial project is the initiative of the ‘Talk to a Teacher’ activity of the National Mission on Education through Information and Communication Technology (ICT), launched by the Ministry of Human Resources and Development, Government of India,
 Spoken Tutorial Project,
